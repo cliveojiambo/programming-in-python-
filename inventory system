@@ -1,4 +1,4 @@
-
+C:\Users\user\PycharmProjects\programming in python\inventory system.py
 inventory = {}
 
 def add_item(item_name, quantity):
